@@ -1,6 +1,6 @@
 # 🚀Web3 Aprende
 <div align="center">
-  <img src="./bannerweb3aprende.png">
+  <img src="./github.png">
 </div>
 <br/>
 
